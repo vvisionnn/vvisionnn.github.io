@@ -1,28 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet type="text/xsl" href="https://vvisionnn.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
     <loc>https://vvisionnn.github.io/</loc>
-    <lastmod>2020-07-21T11:59:49+08:00</lastmod>
+    <lastmod>2020-07-21T12:08:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vvisionnn.github.io/posts/</loc>
-    <lastmod>2020-07-21T11:59:49+08:00</lastmod>
+    <loc>https://vvisionnn.github.io/post/test/</loc>
+    <lastmod>2020-07-21T12:08:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vvisionnn.github.io/posts/hello_hugo/</loc>
-    <lastmod>2020-07-21T11:59:49+08:00</lastmod>
+    <loc>https://vvisionnn.github.io/post/</loc>
+    <lastmod>2020-07-21T12:08:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://vvisionnn.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://vvisionnn.github.io/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
