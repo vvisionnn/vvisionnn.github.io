@@ -5,11 +5,7 @@
     <link>https://vvisionnn.github.io/</link>
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-<<<<<<< HEAD
-    <language>en-us</language>
-=======
     <language>en</language>
->>>>>>> temp_work
     <lastBuildDate>Tue, 21 Jul 2020 12:08:01 +0800</lastBuildDate>
     
 	<atom:link href="https://vvisionnn.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -17,17 +13,10 @@
     
     <item>
       <title>Hello World</title>
-<<<<<<< HEAD
-      <link>https://vvisionnn.github.io/posts/test/</link>
-      <pubDate>Tue, 21 Jul 2020 12:08:01 +0800</pubDate>
-      
-      <guid>https://vvisionnn.github.io/posts/test/</guid>
-=======
       <link>https://vvisionnn.github.io/post/test/</link>
       <pubDate>Tue, 21 Jul 2020 12:08:01 +0800</pubDate>
       
       <guid>https://vvisionnn.github.io/post/test/</guid>
->>>>>>> temp_work
       <description>Hello World</description>
     </item>
     
